@@ -113,8 +113,3 @@ int checkWin(){
 	if(!movesLeft) return -1;
 	return 0;
 }
-
-
-	
-	
-
